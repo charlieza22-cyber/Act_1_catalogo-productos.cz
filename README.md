@@ -16,4 +16,4 @@ Aplicación móvil desarrollada con Flutter para mostrar un catálogo de product
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/charlieza22-cyber/catalogo-productos.git
+   git clone https://github.com/charlieza22-cyber/Act_1_catalogo-productos.cz.git
